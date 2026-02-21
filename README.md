@@ -1,4 +1,4 @@
-# 📰 Ege Ajans Haber Asistanı (News Editor AI)
+# 📰 Haber Asistanı
 
 ![Version](https://img.shields.io/badge/version-11.0-blue.svg) 
 ![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-googlechrome.svg) 
