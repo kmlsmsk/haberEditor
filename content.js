@@ -1,5 +1,5 @@
 /*     NEWS EDITOR AI v11.2 - CHROME EXTENSION EDITION (ABSOLUTE LAYOUT & SVG ICONS FIX)
-       Core: Ege Ajans Haber Asistanı (Gemini 3 Flash Preview) */  
+       Core: Haber Asistanı (Gemini 3 Flash Preview) */  
 
 (function() {     
     // 1. YAPILANDIRMA     
@@ -182,7 +182,7 @@
                 <label class="ne-label">Haber Ham Metni (Zorunlu)</label>                 
                 <textarea id="ne-raw-text" class="ne-input" placeholder="Etkinlik detayları, notlar, katılımcılar..."></textarea>                                  
                 <label class="ne-label">Örnek Haber URL (Opsiyonel)</label>                 
-                <input type="text" id="ne-url" class="ne-input" placeholder="https://egeajans.ege.edu.tr/...">                                  
+                <input type="text" id="ne-url" class="ne-input" placeholder="url yazınız...">                                  
                 <label class="ne-label">Fotoğraf Ekle (Opsiyonel)</label>                 
                 <div id="ne-img-area" class="ne-img-area">                     
                     <div id="ne-img-text" class="ne-img-text">                         
@@ -453,4 +453,5 @@
             .replace(/\n/g, '<br>');         
         return `<p>${clean}</p>`;     
     } 
+
 })();
