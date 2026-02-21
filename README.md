@@ -5,7 +5,7 @@
 ![Powered By](https://img.shields.io/badge/Powered%20By-Gemini--3--Flash--Preview-orange) 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-**Ege Ajans Haber Asistanı**, Ege Üniversitesi Haber Ajansı (Ege Ajans) yayın standartlarına uygun, profesyonel haber metinleri oluşturmak için tasarlanmış, yapay zeka destekli bir Google Chrome eklentisidir. 
+**Haber Asistanı**, Haber Ajansları yayın standartlarına uygun, profesyonel haber metinleri oluşturmak için tasarlanmış, yapay zeka destekli bir Google Chrome eklentisidir. 
 
 Muhabirlerin ve editörlerin etkinlik notlarından, ham bilgilerden veya görsellerden saniyeler içinde kurumsal dilde haber üretmesini sağlar.
 
@@ -15,8 +15,8 @@ Muhabirlerin ve editörlerin etkinlik notlarından, ham bilgilerden veya görsel
 
 ### 🧠 Akıllı Haber Yazım Motoru
 *   **Google Gemini 3 Flash Preview:** En güncel ve hızlı dil modeli entegrasyonu.
-*   **Ege Ajans Kurumsal Kimliği:** `euegeajans.com` üslubunda, akıcı ve profesyonel yazım dili.
-*   **Dinamik Rektör Demeci:** Haber içeriğine göre **Rektör Prof. Dr. Musa ALCI** adına kurumsal görüşler kurgular.
+*   **Kurumsal Kimliği:** Ajans üslubunda, akıcı ve profesyonel yazım dili.
+*   **Dinamik Demeç:** Haber içeriğine göre kurumsal görüşler kurgular.
 *   **Multimodal Analiz:** Fotoğrafları analiz ederek metne doğal bir akışla yedirir.
 
 ### 🎨 Profesyonel UX/UI Tasarımı
