@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "News Editor AI",
+  "version": "11.2",
+  "description": "Haber metinlerini profesyonel bir şekilde yazar ve düzenler.",
+  "permissions": [
+    "storage"
+  ],
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icon.png",
+      "32": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "default_title": "News Editor AI"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "host_permissions": [
+    "https://generativelanguage.googleapis.com/*",
+    "<all_urls>"
+  ]
+}
